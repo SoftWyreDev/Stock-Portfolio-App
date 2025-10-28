@@ -1,10 +1,3 @@
-/*
-* Class Name: IFT210
-* Author: Alexander Bahler
-* Date Created: 11/25/2023
-* Purpose: Final Project
-*/
-
 public class TransactionHistory
 {
     private String ticker;
