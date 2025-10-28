@@ -4,13 +4,6 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/*
-* Class Name: IFT210
-* Author: Alexander Bahler
-* Date Created: 11/25/2023
-* Purpose: Final Project
-*/
-
 public class PortfolioManager {
     private static Scanner scan = new Scanner(System.in);
     private static ArrayList<TransactionHistory> portfolioList = new ArrayList<TransactionHistory>();
